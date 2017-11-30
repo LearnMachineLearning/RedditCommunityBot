@@ -42,11 +42,27 @@ That being said, below are a few options of how we can approach this.
 
 Proofs of concept:
 
+- ["Deep Learning for Chatbots, Part 2 – Implementing a Retrieval-Based Model in Tensorflow"](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/)
+
+(Note that the above example is most applicable to the determining of an answer for FAQs, rather than summarizing text or relating questions that are frequently asked.)
+
+### Design Option 2: Python-based Gluon Text Processing
+
+Proofs of concept:
+
 - Link to paper/Github repository/etc.
 
 ..
 
-### Design Option 2: Python-based Gluon Text Processing
+### Design Option 3: Scala-based Gluon Text Processing
+
+Proofs of concept:
+
+- Link to paper/Github repository/etc.
+
+..
+
+### Design Option 4: ..
 
 Proofs of concept:
 
