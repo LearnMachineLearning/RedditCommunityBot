@@ -12,7 +12,13 @@ This is an in-progress open source development effort by the Reddit "/r/LearnMac
 
 See the `requirements.txt` file for a full list of dependencies.
 
-## Setup
+## Contributing & Setup
+
+The recommended approach for contributing to this effort is to fork the repository with you Github account ([click here to fork this now](https://github.com/LearnMachineLearning/RedditCommunityBot/blob/docwriting/docs/Design-Doc.md#fork-destination-box)), and to develop on a feature branch (not on your `master` branch) in your forked version of the repository. When you are ready to introduce your contributions to the project, enter a [Pull Request](https://github.com/LearnMachineLearning/RedditCommunityBot/pulls) on the source repository for review and merging.
+
+Keep in mind there are active members of the community to take your questions on the [/r/LML Discord server](https://discord.gg/G3rvFKF) in case you run into issues or have questions!
+
+If you're unfamiliar with developing in a Github repository, the following is a recommended virtual environment setup.
 
 Linux / UNIX:
 
@@ -34,3 +40,4 @@ Windows:
 Python 3.5.2
 ```
 
+Note that these are specific to a Python-based bot build, and will change if the community takes a different direction with the project design.
